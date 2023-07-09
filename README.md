@@ -1,7 +1,7 @@
 Welcome to the NLP Chatbot repository! This repository contains a Natural Language Processing (NLP) Chatbot implemented in Python. The chatbot utilizes the power of NLP techniques to understand and respond to user input in a conversational manner.
 
- <font size="1">Features font.</font>
-Features
+
+# Features
 
 *Natural Language Processing: The chatbot leverages NLP techniques to process and understand user input, enabling it to engage in meaningful conversations.
 
@@ -13,7 +13,7 @@ Features
 
 *Customization: The chatbot's behavior, language model, and response generation logic can be customized to suit specific use cases and requirements.
 
-#Set Up and Usage
+###### Set Up and Usage
 
 1.copy the data from the internet to a notepad and upload the file to use it.
 
