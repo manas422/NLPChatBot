@@ -13,7 +13,7 @@ Welcome to the NLP Chatbot repository! This repository contains a Natural Langua
 
 *Customization: The chatbot's behavior, language model, and response generation logic can be customized to suit specific use cases and requirements.
 
-###### Set Up and Usage
+# Set Up and Usage
 
 1.copy the data from the internet to a notepad and upload the file to use it.
 
@@ -23,7 +23,7 @@ Welcome to the NLP Chatbot repository! This repository contains a Natural Langua
 
 4.Interact with the chatbot through the command line interface. Enter your messages, and the chatbot will respond accordingly.
 
-#Customization
+# Customization
 
 1.Language Model: You can experiment with different language models to improve the chatbot's understanding and response quality.
 
